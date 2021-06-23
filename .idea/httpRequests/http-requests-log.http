@@ -1,0 +1,33 @@
+GET http://localhost:8080/user/hello?q=me
+
+<> 2021-06-23T094649.200.txt
+
+###
+
+GET http://localhost:8080/user/hello?q=me
+
+<> 2021-06-23T094536.200.txt
+
+###
+
+GET http://localhost:8080/user/hello?q=me
+
+<> 2021-06-23T094510.200.txt
+
+###
+
+GET http://localhost:8080/user/hello?q=me
+
+<> 2021-06-23T094441.200.txt
+
+###
+
+GET http://localhost:8080/user/hello?q=me
+
+###
+
+GET http://localhost:8080/user/hello?q=me
+Accept: application/json
+
+###
+
